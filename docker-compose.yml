@@ -3,4 +3,4 @@
    server:
      image: 2144768106/docker-ci-basic:latest
      ports:
-       - 8080:80
+       - 8086:80
