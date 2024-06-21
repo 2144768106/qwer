@@ -15,8 +15,18 @@ Record the version history or update log of the project.
 
 Contact
 2144768106@qq.com
+Yang Lijun
+20222106
 
-License
-Declare the license information used for the project here.
+	Update your README file, add this following information in README.md 
+	Name and surname
+    Yang LIjun
+	Your image
+	Your student id
+    20222106
+	Your url for both application.
+    http://47.236.253.34:8082/
 
-Feel free to modify and customize this template based on the content and requirements of your project. I hope this English version of the template is helpful to you!
+	Set your repository to be public
+    https://github.com/2144768106/qwer
+	Post your github url in the assignment
